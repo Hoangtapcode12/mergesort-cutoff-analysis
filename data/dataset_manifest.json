@@ -1,0 +1,114 @@
+[
+  {
+    "filename": "dataset_random_n10000.txt",
+    "distribution": "RANDOM",
+    "size": 10000,
+    "seed": 20261120,
+    "file_size_bytes": 113864
+  },
+  {
+    "filename": "dataset_random_n50000.txt",
+    "distribution": "RANDOM",
+    "size": 50000,
+    "seed": 20261120,
+    "file_size_bytes": 569469
+  },
+  {
+    "filename": "dataset_random_n100000.txt",
+    "distribution": "RANDOM",
+    "size": 100000,
+    "seed": 20261120,
+    "file_size_bytes": 1138681
+  },
+  {
+    "filename": "dataset_random_n200000.txt",
+    "distribution": "RANDOM",
+    "size": 200000,
+    "seed": 20261120,
+    "file_size_bytes": 2277921
+  },
+  {
+    "filename": "dataset_partially_sorted_n10000.txt",
+    "distribution": "PARTIALLY_SORTED",
+    "size": 10000,
+    "seed": 20261120,
+    "file_size_bytes": 58890
+  },
+  {
+    "filename": "dataset_partially_sorted_n50000.txt",
+    "distribution": "PARTIALLY_SORTED",
+    "size": 50000,
+    "seed": 20261120,
+    "file_size_bytes": 338890
+  },
+  {
+    "filename": "dataset_partially_sorted_n100000.txt",
+    "distribution": "PARTIALLY_SORTED",
+    "size": 100000,
+    "seed": 20261120,
+    "file_size_bytes": 688890
+  },
+  {
+    "filename": "dataset_partially_sorted_n200000.txt",
+    "distribution": "PARTIALLY_SORTED",
+    "size": 200000,
+    "seed": 20261120,
+    "file_size_bytes": 1488890
+  },
+  {
+    "filename": "dataset_reverse_sorted_n10000.txt",
+    "distribution": "REVERSE_SORTED",
+    "size": 10000,
+    "seed": 20261120,
+    "file_size_bytes": 58894
+  },
+  {
+    "filename": "dataset_reverse_sorted_n50000.txt",
+    "distribution": "REVERSE_SORTED",
+    "size": 50000,
+    "seed": 20261120,
+    "file_size_bytes": 338894
+  },
+  {
+    "filename": "dataset_reverse_sorted_n100000.txt",
+    "distribution": "REVERSE_SORTED",
+    "size": 100000,
+    "seed": 20261120,
+    "file_size_bytes": 688895
+  },
+  {
+    "filename": "dataset_reverse_sorted_n200000.txt",
+    "distribution": "REVERSE_SORTED",
+    "size": 200000,
+    "seed": 20261120,
+    "file_size_bytes": 1488895
+  },
+  {
+    "filename": "dataset_few_unique_n10000.txt",
+    "distribution": "FEW_UNIQUE",
+    "size": 10000,
+    "seed": 20261120,
+    "file_size_bytes": 30000
+  },
+  {
+    "filename": "dataset_few_unique_n50000.txt",
+    "distribution": "FEW_UNIQUE",
+    "size": 50000,
+    "seed": 20261120,
+    "file_size_bytes": 150000
+  },
+  {
+    "filename": "dataset_few_unique_n100000.txt",
+    "distribution": "FEW_UNIQUE",
+    "size": 100000,
+    "seed": 20261120,
+    "file_size_bytes": 300000
+  },
+  {
+    "filename": "dataset_few_unique_n200000.txt",
+    "distribution": "FEW_UNIQUE",
+    "size": 200000,
+    "seed": 20261120,
+    "file_size_bytes": 600000
+  }
+]
